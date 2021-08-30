@@ -49,8 +49,8 @@
 * Columns used as inputs in the final model: 
 * Columns used as target(s) in the final model:
 * Type of model: Depth=6
-* Software used to implement the model :
-* Version of the modeling software: anaconda
+* Software used to implement the model : Spyder(Anaconda3)
+* Version of the modeling software: 3.3.6
 * Hyperparameters or other settings of your model:
 
 ### Quantitative analysis
