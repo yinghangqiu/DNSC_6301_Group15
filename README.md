@@ -46,17 +46,18 @@
 * **State any differences in columns between training and test data**: None
 
 ### Model details
-* **Columns used as inputs in the final model: 
-* **Columns used as target(s) in the final model:
-* **Type of model: Depth=6
-* **Software used to implement the model :
-* **Version of the modeling software:
-* **Hyperparameters or other settings of your model:
+* Columns used as inputs in the final model: 
+* Columns used as target(s) in the final model:
+* Type of model: Depth=6
+* Software used to implement the model :
+* Version of the modeling software:
+* Hyperparameters or other settings of your model:
 
 ### Quantitative analysis
-* **Metrics used to evaluate your final model: Confusion Matrix; AIR
-* **State the final values of the metrics for all data:
-* Confusion matrix by RACE=1
+* Metrics used to evaluate your final model: Confusion Matrix; AIR
+* State the final values of the metrics for all data:
+* 
+Confusion matrix by RACE=1
              actual: 1 actual: 0
 predicted: 1       447       387
 predicted: 0       139       501
