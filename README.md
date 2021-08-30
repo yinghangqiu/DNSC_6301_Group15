@@ -123,4 +123,9 @@ Iteration Plot
 
 ![image](https://user-images.githubusercontent.com/89756854/131276462-c4e7afe0-d7c2-401d-ba89-663c0f54467d.png)
 
+###Ethical considerations
+* Describe potential negative impacts of using your model: 
+ * Math or software problems: In this data set’s variables there’s correlation of DELINQ_NEXT and Race, which is a negative impact
+
+
 
