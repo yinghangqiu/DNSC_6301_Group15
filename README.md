@@ -3,7 +3,7 @@
 
 ### Basic Information
 
-* **Group Members**: Jamir Burns‘Jamir@gwu.edu, Yinghang Qiu‘Yinghang@gwu.edu’, Jiujiu Yang’Jiujiu@gwu.edu‘, Wenyuan Zou’Wenyuan@gwu.edu‘
+* **Group Members**: Jamir Burns`Jamir@gwu.edu`, Yinghang Qiu`Yinghang@gwu.edu`, Jiujiu Yang`Jiujiu@gwu.edu`, Wenyuan Zou`Wenyuan@gwu.edu`
 * **Model date**: August 29, 2021
 * **Model version**: 1.0
 * **License**: MIT
