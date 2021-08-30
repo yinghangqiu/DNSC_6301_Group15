@@ -3,11 +3,11 @@
 
 ### Basic Information
 
-* **•	Group Members: Jamir Burns(Jamir@gwu.edu), Yinghang Qiu(Yinghang@gwu.edu), Jiujiu Yang(Jiujiu@gwu.edu), Wenyuan Zou(Wenyuan@gwu.edu)
-* **•	Model date: August 28, 2021
+* **Group Members: Jamir Burns(Jamir@gwu.edu), Yinghang Qiu(Yinghang@gwu.edu), Jiujiu Yang(Jiujiu@gwu.edu), Wenyuan Zou(Wenyuan@gwu.edu)
+* **Model date: August 28, 2021
 * **Model version**: 1.0
 * **License**: MIT
-* **•	•	Model implementation code:  https://colab.research.google.com/drive/1rCrc4nKAUJvOyZh4KFW-ST5tzWkF5lrE
+* **Model implementation code:  https://colab.research.google.com/drive/1rCrc4nKAUJvOyZh4KFW-ST5tzWkF5lrE
 
 
 ### Intended Use
@@ -53,5 +53,59 @@
 * **Version of the modeling software:
 * **Hyperparameters or other settings of your model:
 
-###
+### Quantitative analysis
+* **Metrics used to evaluate your final model: Confusion Matrix; AIR
+* **State the final values of the metrics for all data:
+* Confusion matrix by RACE=1
+             actual: 1 actual: 0
+predicted: 1       447       387
+predicted: 0       139       501
+(Hispanic)
+
+Confusion matrix by RACE=2
+             actual: 1 actual: 0
+predicted: 1       449       348
+predicted: 0       157       537
+(Black)
+
+Confusion matrix by RACE=3
+             actual: 1 actual: 0
+predicted: 1       176       813
+predicted: 0        72      1228
+(White)
+
+Confusion matrix by RACE=4
+             actual: 1 actual: 0
+predicted: 1       186       784
+predicted: 0        59      1217
+(Asian)
+
+White proportion accepted: 0.568
+Hispanic proportion accepted: 0.434
+hispanic-to-white AIR: 0.76
+
+White proportion accepted: 0.568
+Black proportion accepted: 0.465
+black-to-white AIR: 0.82
+
+White proportion accepted: 0.568
+Asian proportion accepted: 0.568
+asian-to-white AIR: 1.00
+
+Confusion matrix by SEX=1
+             actual: 1 actual: 0
+predicted: 1       546       905
+predicted: 0       179      1292
+(Male)
+
+Confusion matrix by SEX=2
+             actual: 1 actual: 0
+predicted: 1       712      1427
+predicted: 0       248      2191
+(Female)
+
+Male proportion accepted: 0.503
+Female proportion accepted: 0.533
+female-to-male AIR: 1.06
+![image](https://user-images.githubusercontent.com/89756854/131276170-b156488a-918a-4a2d-8b7e-918fe31e7680.png)
 
