@@ -3,8 +3,8 @@
 
 ### Basic Information
 
-* **Group Members: Jamir Burns(Jamir@gwu.edu), Yinghang Qiu(Yinghang@gwu.edu), Jiujiu Yang(Jiujiu@gwu.edu), Wenyuan Zou(Wenyuan@gwu.edu)
-* **Model date: August 28, 2021
+* Group Members: Jamir Burns(Jamir@gwu.edu), Yinghang Qiu(Yinghang@gwu.edu), Jiujiu Yang(Jiujiu@gwu.edu), Wenyuan Zou(Wenyuan@gwu.edu)
+* Model date: August 28, 2021
 * **Model version**: 1.0
 * **License**: MIT
 * **Model implementation code:  https://colab.research.google.com/drive/1rCrc4nKAUJvOyZh4KFW-ST5tzWkF5lrE
@@ -112,10 +112,15 @@ female-to-male AIR: 1.06
 * Provide any plots related to your data or final model: 
 
 Data Histograms
+
 ![image](https://user-images.githubusercontent.com/89756854/131276416-23a77ffc-0e5b-4a06-9fdd-30e08aae0bc1.png)
+
 Heat Map
+
 ![image](https://user-images.githubusercontent.com/89756854/131276440-49f65a56-dcb5-4f84-a3b6-f77a0264d242.png)
+
 Iteration Plot
+
 ![image](https://user-images.githubusercontent.com/89756854/131276462-c4e7afe0-d7c2-401d-ba89-663c0f54467d.png)
 
 
