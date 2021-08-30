@@ -7,7 +7,7 @@
 * **Model date**: August 28, 2021
 * **Model version**: 1.0
 * **License**: MIT
-* **Model implementation code:  https://colab.research.google.com/drive/1rCrc4nKAUJvOyZh4KFW-ST5tzWkF5lrE
+* **Model implementation code**:  https://colab.research.google.com/drive/1rCrc4nKAUJvOyZh4KFW-ST5tzWkF5lrE
 
 
 ### Intended Use
