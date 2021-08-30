@@ -56,7 +56,6 @@
 ### Quantitative analysis
 * Metrics used to evaluate your final model: Confusion Matrix; AIR
 * State the final values of the metrics for all data:
-* 
 Confusion matrix by RACE=1
              actual: 1 actual: 0
 predicted: 1       447       387
@@ -109,4 +108,14 @@ Male proportion accepted: 0.503
 Female proportion accepted: 0.533
 female-to-male AIR: 1.06
 ![image](https://user-images.githubusercontent.com/89756854/131276170-b156488a-918a-4a2d-8b7e-918fe31e7680.png)
+
+* Provide any plots related to your data or final model: 
+
+Data Histograms
+![image](https://user-images.githubusercontent.com/89756854/131276416-23a77ffc-0e5b-4a06-9fdd-30e08aae0bc1.png)
+Heat Map
+![image](https://user-images.githubusercontent.com/89756854/131276440-49f65a56-dcb5-4f84-a3b6-f77a0264d242.png)
+Iteration Plot
+![image](https://user-images.githubusercontent.com/89756854/131276462-c4e7afe0-d7c2-401d-ba89-663c0f54467d.png)
+
 
