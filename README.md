@@ -45,3 +45,8 @@
 * **Number of rows in test data**: 7,500
 * **State any differences in columns between training and test data**: None
 
+### Model details
+* **•	Columns used as inputs in the final model: 
+* **•	Columns used as target(s) in the final model:
+* **•	Type of model: Depth=6
+
