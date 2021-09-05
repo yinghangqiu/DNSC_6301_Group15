@@ -121,7 +121,7 @@
 
    Iteration Plot
 
-   ![image](https://user-images.githubusercontent.com/89756854/131276462-c4e7afe0-d7c2-401d-ba89-663c0f54467d.png)
+   ![image](https://user-images.githubusercontent.com/89756854/132137674-a3b73780-4fe3-4546-a72e-a9434f625f6d.png)
 
 ### Ethical considerations
 * Describe potential negative impacts of using your model: 
